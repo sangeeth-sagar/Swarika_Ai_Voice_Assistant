@@ -30,11 +30,11 @@ The name **Swarika (स्वरिका)** originates from the Sanskrit word _
 | Component | Technology |
 |------------|-------------|
 | **Language** | Python |
-| **Speech Recognition** | Deepgram / Google STT |
-| **Text-to-Speech (TTS)** | pyttsx3 / gTTS |
-| **AI Model Integration** | OpenAI / Local LLM |
-| **Frameworks** | FastAPI / Streamlit (for UI demo) |
-| **Storage** | Firebase (for backend and logs) |
+| **Speech Recognition** | Deepgram  |
+| **Text-to-Speech (TTS)** | ElevenLabs|
+| **AI Model Integration** | Gemini |
+| **Frameworks** | FastAPI  |
+| **Storage** | Sqlite |
 
 ---
 
@@ -44,7 +44,7 @@ The name **Swarika (स्वरिका)** originates from the Sanskrit word _
 
 ### Prerequisites
 - Python 3.9+
-- API keys (if using Deepgram, OpenAI, or Firebase)
+- API keys (if using Deepgram,ElevenLabs,Gemini)
 - Microphone access enabled
 
 ### Steps
