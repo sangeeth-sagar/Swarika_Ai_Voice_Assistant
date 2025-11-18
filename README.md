@@ -104,4 +104,8 @@ Add emotion-based speech synthesis.
 Sangeeth Sagaran K S
 
 
+## 🎥 Demo Video
+Watch the full working video here:  
+👉 [Click to View Demo]https://drive.google.com/drive/folders/1v7Cxl91ZSozn5eu5LSlnpmvfcbtmT3us
+
 
